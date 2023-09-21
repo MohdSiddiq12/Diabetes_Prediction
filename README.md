@@ -1,2 +1,2 @@
 # Diabetes_Prediction
-This is work done during Internship at Internpe in Artificial Intelligence & ML.
+This is work done during Internship at Internpe in Artificial Intelligence & Machine Learning
